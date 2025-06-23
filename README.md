@@ -1,4 +1,4 @@
 # My Wiz
-My wiz is a website for the web browser [JotoWiz](https://github.com/Joto-Series/JotoWiz-Browser/)
+__My wiz__ is a website for the web browser __[JotoWiz](https://github.com/Joto-Series/JotoWiz-Browser/)__
 
-My wiz
+__JotoWiz__ is the only web browser than can open __My Wiz__
